@@ -24,6 +24,11 @@ namespace StatisticArray
             Console.WriteLine(string.Join(", ", result));
         }
 
+        public static int SumChetniChisla(int[] arr)
+        {
+            return arr.Where(x => x % 2 == 0).Sum();
+        }
+
         public static int[] ReverseArr(int[] arr)
         {
             return arr.Reverse().ToArray();
