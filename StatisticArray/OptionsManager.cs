@@ -29,6 +29,11 @@ namespace StatisticArray
             return arr.Where(x => x % 2 == 0).Sum();
         }
 
+        public static int BroiChetniChisla(int[] arr)
+        {
+            return arr.Where(x => x % 2 == 0).Count();
+        }
+
         public static int[] ReverseArr(int[] arr)
         {
             return arr.Reverse().ToArray();

@@ -17,6 +17,7 @@ namespace StatisticArray
             Console.WriteLine(OptionsManager.MaxNum(arr));
             OptionsManager.ChetniChisla(arr);
             Console.WriteLine(OptionsManager.SumChetniChisla(arr));
+            Console.WriteLine(OptionsManager.BroiChetniChisla(arr));
             arr = OptionsManager.ReverseArr(arr);
             OptionsManager.PrintArr(arr);
         }
