@@ -18,6 +18,12 @@ namespace StatisticArray
             return arr.Max();
         }
 
+        public static void ChetniChisla(int[] arr)
+        {
+            var result = arr.Where(x => x % 2 == 0).ToArray();
+            Console.WriteLine(string.Join(", ", result));
+        }
+
         public static int[] ReverseArr(int[] arr)
         {
             return arr.Reverse().ToArray();
