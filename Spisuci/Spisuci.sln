@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNum", "RemoveNum\RemoveNum.csproj", "{BC5A9C93-7E28-4A0D-8A9A-A595DF5F5B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNegativeNums", "DeleteNegativeNums\DeleteNegativeNums.csproj", "{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5A9C93-7E28-4A0D-8A9A-A595DF5F5B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5A9C93-7E28-4A0D-8A9A-A595DF5F5B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5A9C93-7E28-4A0D-8A9A-A595DF5F5B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5A9C93-7E28-4A0D-8A9A-A595DF5F5B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F79D3C3-70F9-463E-BDD6-A3B9F436FF69}
+	EndGlobalSection
+EndGlobal
