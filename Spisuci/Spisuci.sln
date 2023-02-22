@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNum", "RemoveNum\RemoveNum.csproj", "{BC5A9C93-7E28-4A0D-8A9A-A595DF5F5B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNum", "RemoveNum\RemoveNum.csproj", "{BC5A9C93-7E28-4A0D-8A9A-A595DF5F5B91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNegativeNums", "DeleteNegativeNums\DeleteNegativeNums.csproj", "{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteNegativeNums", "DeleteNegativeNums\DeleteNegativeNums.csproj", "{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLists", "MergeLists\MergeLists.csproj", "{52A49761-AF0C-4885-9B3A-9756E885C9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumsSquares", "NumsSquare\NumsSquares.csproj", "{7DDF9CF5-5FA3-431B-8600-0087D224E240}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F940B4AF-430E-49EC-9ADB-03EFD1EFA69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A49761-AF0C-4885-9B3A-9756E885C9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A49761-AF0C-4885-9B3A-9756E885C9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A49761-AF0C-4885-9B3A-9756E885C9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A49761-AF0C-4885-9B3A-9756E885C9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DDF9CF5-5FA3-431B-8600-0087D224E240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDF9CF5-5FA3-431B-8600-0087D224E240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDF9CF5-5FA3-431B-8600-0087D224E240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDF9CF5-5FA3-431B-8600-0087D224E240}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
