@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeLists", "MergeLists\Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumsSquares", "NumsSquare\NumsSquares.csproj", "{7DDF9CF5-5FA3-431B-8600-0087D224E240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulator", "ListManipulator\ListManipulator.csproj", "{D7AAD41F-3E2B-48B4-96B9-A0DDEC282385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListManipulator", "ListManipulator\ListManipulator.csproj", "{D7AAD41F-3E2B-48B4-96B9-A0DDEC282385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglZadListManip", "EnglZadListManip\EnglZadListManip.csproj", "{2A64B62C-BAA0-4AA6-8F35-7CE6F150AE6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D7AAD41F-3E2B-48B4-96B9-A0DDEC282385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7AAD41F-3E2B-48B4-96B9-A0DDEC282385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7AAD41F-3E2B-48B4-96B9-A0DDEC282385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A64B62C-BAA0-4AA6-8F35-7CE6F150AE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A64B62C-BAA0-4AA6-8F35-7CE6F150AE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A64B62C-BAA0-4AA6-8F35-7CE6F150AE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A64B62C-BAA0-4AA6-8F35-7CE6F150AE6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
