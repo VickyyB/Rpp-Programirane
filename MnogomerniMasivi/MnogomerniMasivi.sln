@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrixEl", "SumMatrixEl\SumMatrixEl.csproj", "{FCCD73CA-5D4C-4925-A051-B28E37D2B028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrixCo", "SumMatrixCo\SumMatrixCo.csproj", "{6121E7EB-A095-4596-BECF-7A1A89597AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryDiagonal", "PrimaryDiagonal\PrimaryDiagonal.csproj", "{4E49300F-5AC0-494E-8595-C397F8299A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolMatrix", "SymbolMatrix\SymbolMatrix.csproj", "{48F42A33-2659-498B-B293-1B52D7741FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCD73CA-5D4C-4925-A051-B28E37D2B028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCD73CA-5D4C-4925-A051-B28E37D2B028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCD73CA-5D4C-4925-A051-B28E37D2B028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCD73CA-5D4C-4925-A051-B28E37D2B028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6121E7EB-A095-4596-BECF-7A1A89597AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6121E7EB-A095-4596-BECF-7A1A89597AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6121E7EB-A095-4596-BECF-7A1A89597AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6121E7EB-A095-4596-BECF-7A1A89597AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E49300F-5AC0-494E-8595-C397F8299A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E49300F-5AC0-494E-8595-C397F8299A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E49300F-5AC0-494E-8595-C397F8299A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E49300F-5AC0-494E-8595-C397F8299A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F42A33-2659-498B-B293-1B52D7741FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F42A33-2659-498B-B293-1B52D7741FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F42A33-2659-498B-B293-1B52D7741FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F42A33-2659-498B-B293-1B52D7741FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE66365C-A972-468D-BB3F-5F26A77AC23A}
+	EndGlobalSection
+EndGlobal
