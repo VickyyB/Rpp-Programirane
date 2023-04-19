@@ -28,7 +28,7 @@ namespace Masiv
             {
                 for (int j = 0; j < arr.GetLength(1); j++)
                 {
-                    if (arr[i,j] > 20)
+                    if (arr[i,j] < 20)
                     {
                         Console.WriteLine(arr[i, j]);
                     }
